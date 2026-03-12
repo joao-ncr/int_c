@@ -6,8 +6,9 @@ int main() {
     float numero2 = 3.6;
     double numero3 = 3.14569;
     // declarando variáveis
-    printf("Numero: %d, %f, %f", numero, numero2, numero3);
-    
+    printf("Numero: %d",numero);
+    printf("Numero: %f", numero2);
+    printf("Numero: %f", numero3);
     // imprimindo variáveis
     return 0;
 }
