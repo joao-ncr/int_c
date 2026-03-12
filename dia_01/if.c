@@ -21,3 +21,10 @@ int main() {
 
     return 0; 
 }
+
+// c x python - 13 linhas x 5 linhas
+// idade = int(input("Entre com a sua idade :")
+// if idade >= 18:
+// print("Você pode consumir alcool")
+// else: 
+// print(" Você nao pode consumir alcool")  
